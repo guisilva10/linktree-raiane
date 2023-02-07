@@ -86,6 +86,9 @@ section{
   color:#ffbe1a;
 }
 
+.title span{
+  color: #ffbe1a;
+}
 .content{
   display: flex;
   flex-direction: column;
