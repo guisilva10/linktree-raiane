@@ -44,6 +44,10 @@ section{
   border-right: 3px solid #fff;
 }
 
+.title span{
+  color: #ffbe1a;
+}
+
 @keyframes typing {
   from {
     width: 0;
@@ -86,16 +90,14 @@ section{
   color:#ffbe1a;
 }
 
-.title span{
-  color: #ffbe1a;
-}
+
 .content{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-top: 2rem;
-  width: 400px;
+  width: 500px;
 }
 
 .content a {
@@ -129,6 +131,6 @@ section{
   }
 
   .content a{
-    width: 80%;
+    width: 100%;
   }
 }
