@@ -7,7 +7,6 @@
   margin: 0;
   box-sizing: border-box;
   text-decoration: none;
-  text-transform: capitalize;
 }
 
 
@@ -107,6 +106,10 @@ section{
   text-align: center;
   font-size: 2rem;
   margin-bottom: 1rem;
+}
+
+.content a:hover{
+  background-color: #e3a917;
 }
 
 @media (max-width: 425px){
